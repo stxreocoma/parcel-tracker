@@ -28,54 +28,10 @@
           src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg"
           width="36"
           height="36"
-          alt="React"
+          alt="Go"
         />
       </a>
       <br>React
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
-          width="36"
-          height="36"
-          alt="TypeScript"
-        />
-      </a>
-      <br>TypeScript
-    </td>
-    <td>
-      <a href="#tech-stack">
-        <img
-          src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-          width="36"
-          height="36"
-          alt="HTML"
-        />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack" >
-        <img
-          src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-          width="36"
-          height="36"
-          alt="CSS"
-        />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack" >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg"
-          width="36"
-          height="36"
-          alt="Vite"
-        />
-      </a>
-      <br>Vite
     </td>
   </tr>
 </table>
