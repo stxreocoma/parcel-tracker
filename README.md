@@ -31,7 +31,7 @@
           alt="Go"
         />
       </a>
-      <br>React
+      <br>Go
     </td>
   </tr>
 </table>
